@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zivot</string>
+    <string-array name="Tip">
+        <item>Повозрасно лице</item>
+        <item>Волонтер</item>
+    </string-array>
+    <string name="map_key" translatable="false">AIzaSyDywMJK8u_w6u4T3qlAo9HYBy52X0lSmKs</string>
+</resources>

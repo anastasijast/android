@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309362921672",
+    "project_id": "zivototekrug-1e602",
+    "storage_bucket": "zivototekrug-1e602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309362921672:android:48d1f589949b70e59215fd",
+        "android_client_info": {
+          "package_name": "anastasijast.example.zivot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309362921672-ugqgti60gka6af1qinl76aa9h225s2up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwZQaVHO_xGJZA5KiWvY9Zg03LWmea9bI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309362921672-ugqgti60gka6af1qinl76aa9h225s2up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

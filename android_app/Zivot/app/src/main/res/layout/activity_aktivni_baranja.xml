@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="@drawable/bg">
+    <FrameLayout android:layout_height="match_parent"
+        android:layout_width="match_parent">
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/baranja_L"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".Pregled_aktivnosti"
+            android:orientation="vertical"
+            android:layout_gravity="center_vertical"
+            android:paddingVertical="30dp"
+            android:paddingHorizontal="10dp"
+            android:showDividers="middle"
+            android:divider="@drawable/empty_tall_divider">
+            <TextView
+                android:id="@+id/lokacijaV"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:textColor="@color/black"
+                android:layout_marginTop="30dp"
+                android:textSize="20dp"
+                android:gravity="center"
+                />
+        </LinearLayout>
+
+    </FrameLayout>
+</ScrollView>

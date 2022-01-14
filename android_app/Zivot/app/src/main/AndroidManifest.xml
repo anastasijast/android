@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="anastasijast.example.zivot">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Zivot">
+        <activity
+            android:name=".Izvestai_postaro"
+            android:exported="false" />
+        <activity
+            android:name=".Izvestai_volonter"
+            android:exported="false" />
+        <activity
+            android:name=".Svoja_aktivnost"
+            android:exported="false" />
+        <activity
+            android:name=".Izvestaj_aktivnost"
+            android:exported="false" />
+        <activity
+            android:name=".Pregled_na_aktivnost"
+            android:exported="false"
+            android:parentActivityName=".Pregled_aktivnosti" />
+        <activity
+            android:name=".Itni_baranja"
+            android:exported="false"
+            android:parentActivityName=".Osnovno_volonter" />
+        <activity
+            android:name=".Detali_aktivnost"
+            android:exported="false" />
+        <activity
+            android:name=".Aktivni_baranja"
+            android:exported="false"
+            android:parentActivityName=".Osnovno_volonter" />
+        <activity
+            android:name=".Site_baranja"
+            android:exported="false"
+            android:parentActivityName=".Osnovno_volonter" />
+        <activity
+            android:name=".Svoi_baranja"
+            android:exported="false"
+            android:parentActivityName=".Osnovno_volonter" />
+        <activity
+            android:name=".Osnovno_volonter"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/map_key" />
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity
+            android:name=".Map"
+            android:exported="false" />
+        <activity
+            android:name=".Nova_aktivnost"
+            android:exported="false"
+            android:parentActivityName=".Osnovno_povozrasen" />
+        <activity
+            android:name=".Pregled_aktivnosti"
+            android:exported="false"
+            android:parentActivityName=".Osnovno_povozrasen" />
+        <activity
+            android:name=".Osnovno_povozrasen"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".SignUp"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".SignIn"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

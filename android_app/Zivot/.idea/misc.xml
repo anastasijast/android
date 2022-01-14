@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/drawable/edit_border.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/drawable/empty_tall_divider.xml" value="0.2703125" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/drawable/ic_baseline_menu_book_24.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/drawable/ic_launcher_background.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/drawable/tall_divider_padding.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/layout/activity_aktivni_baranja.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/layout/activity_detali_aktivnost.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/layout/activity_itni_baranja.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/layout/activity_izvestai_postaro.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/layout/activity_izvestai_volonter.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/layout/activity_izvestaj_aktivnost.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/layout/activity_main.xml" value="0.16893115942028986" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/layout/activity_map.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/layout/activity_nova_aktivnost.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/layout/activity_osnovno_povozrasen.xml" value="0.2" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/layout/activity_osnovno_volonter.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/layout/activity_pregled_aktivnosti.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/layout/activity_pregled_na_aktivnost.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/layout/activity_sign_in.xml" value="0.2" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/layout/activity_site_baranja.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/layout/activity_svoi_baranja.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/layout/activity_svoja_aktivnost.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Anastasija/AndroidStudioProjects/Zivot/app/src/main/res/layout/mybutton.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
